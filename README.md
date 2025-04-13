@@ -2,11 +2,4 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-
-## Notas
-Pueden hacer lo que quieran...
-
-### Actualización desde GitHub
-Un texto ingresado desde GitHub para modificar el archivo README.md
-
-### Hola mundo
+## Estos cambios son nuevos
